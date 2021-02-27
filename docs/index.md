@@ -12,7 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
@@ -36,9 +38,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation][5] or [contact support][6] and we’ll help you sort it out.
 
-[1]:	https://github.com/DavidHalbani/1x1/edit/gh-pages/index.md
-[2]:	https://jekyllrb.com/
-[3]:	https://guides.github.com/features/mastering-markdown/
-[4]:	https://github.com/DavidHalbani/1x1/settings
-[5]:	https://docs.github.com/categories/github-pages-basics/
-[6]:	https://support.github.com/contact
+[1]: https://github.com/DavidHalbani/1x1/edit/gh-pages/index.md
+[2]: https://jekyllrb.com/
+[3]: https://guides.github.com/features/mastering-markdown/
+[4]: https://github.com/DavidHalbani/1x1/settings
+[5]: https://docs.github.com/categories/github-pages-basics/
+[6]: https://support.github.com/contact
